@@ -1,0 +1,22 @@
+.navbar-expand-lg {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+nav a {
+  font-family: "Source Sans Pro", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  letter-spacing: 0.065em;
+  margin-right: 10px;
+}
+
+nav a:hover {
+  color: #ff7a00 !important;
+}
+/*# sourceMappingURL=nav.css.map */
